@@ -29,7 +29,7 @@ function bozoSort(arr) {
   return arr;
 }
 
-let arr1 = [2, -4, 1, 12, 8];
-console.log(arr1);
-arr1 = bozoSort(arr1);
-console.log(arr1);
+let testArr = [2, -4, 1, 12, 8];
+console.log(testArr);
+testArr = bozoSort(testArr);
+console.log(testArr);

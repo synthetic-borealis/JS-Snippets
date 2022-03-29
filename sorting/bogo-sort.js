@@ -35,7 +35,7 @@ function bogoSort(arr) {
   return arr;
 }
 
-let arr1 = [2, -4, 1, 12, 8];
-console.log(arr1);
-arr1 = bogoSort(arr1);
-console.log(arr1);
+let testArr = [2, -4, 1, 12, 8];
+console.log(testArr);
+testArr = bogoSort(testArr);
+console.log(testArr);
